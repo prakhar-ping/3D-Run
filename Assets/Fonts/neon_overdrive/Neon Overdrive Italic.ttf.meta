@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9ca7791d46eff29438d40bfd26478f3e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Neon Overdrive
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 390fc5fbc6cad9346b4bacc7f24104c5, type: 3}
+  - {fileID: 12800000, guid: 84cc04fba5c81e44e9bf29593a1151d8, type: 3}
+  - {fileID: 12800000, guid: f8a175d408b0cd54e8ff9ff7e8f9f827, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
